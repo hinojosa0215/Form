@@ -1,0 +1,36 @@
+body {
+    font-family: 'Merriweather', serif;
+    height:max-content;
+    width: fit-content;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px 10px;
+    padding: 5px 10px 30px 10px;
+    float:none;
+    font-size: 15px;
+    position: fixed;
+    top: 30%;
+    left: 40%;
+}
+.button {
+    margin: 20px 5px 5px 5px;
+    padding: 0px 110px;
+    background: rgb(253, 253, 250);
+    border-color: rgb(233, 227, 227);
+}
+.firstname {
+    padding: 5px 4px;
+    margin: 5px;
+    border-color: rgb(233, 227, 227);
+}
+.lastname {
+    padding: 5px 4px;
+    margin: 5px;
+    border-color: rgb(233, 227, 227);
+}
+.email {
+    padding: 5px 4px;
+    margin: 5px;
+    border-color: rgb(233, 227, 227);
+}
+
